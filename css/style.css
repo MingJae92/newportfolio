@@ -597,7 +597,6 @@ body.section-switching.up .animation-block{
 	left:0;
 	right:0;
 	bottom:0;
-	border:solid 1px rgba(0,0,0,.1);
 	z-index:2;
 }
 .service > .icon{
